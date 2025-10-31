@@ -18,7 +18,8 @@ Projeto simples de tela de login usando **HTML**, **CSS**.
 
 Exemplo:
 
-<img width="1788" height="892" alt="image" src="https://github.com/user-attachments/assets/66b77b49-09ef-47b1-8609-a37463a60169" />
+<img width="1912" height="943" alt="image" src="https://github.com/user-attachments/assets/717c6cdb-81b8-4745-b92a-124a0255b9b2" />
+
 
 
 
